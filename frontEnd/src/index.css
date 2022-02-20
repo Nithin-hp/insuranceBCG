@@ -1,0 +1,18 @@
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+td{
+  font-size:small;
+  font-weight: 900;
+}
+td:hover{
+  cursor: pointer;
+}
